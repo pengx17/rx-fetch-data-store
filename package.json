@@ -1,0 +1,30 @@
+{
+  "name": "rx-fetch-data-store",
+  "version": "1.0.0",
+  "description": "Wraps html5 fetch endpoint with RxJS to enable better user experience with cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengx17/rx-fetch-data-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pengx17/rx-fetch-data-store/issues"
+  },
+  "homepage": "https://github.com/pengx17/rx-fetch-data-store#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "rxjs": "^5.3.0",
+    "typescript": "^2.2.2",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.62",
+    "@types/whatwg-fetch": "0.0.33"
+  }
+}
